@@ -1,18 +1,19 @@
 {
   "name": "5_word_counter-by_hafsa",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin": "counter.js",
   
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "inquirer": "^9.2.19"
+    "inquirer": "^9.2.22"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
